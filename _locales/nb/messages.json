@@ -169,11 +169,11 @@
     "description": "Application menu command to hide the window"
   },
   "icu:appMenuHideOthers": {
-    "messageformat": "Gjem Andre",
+    "messageformat": "Gjem andre",
     "description": "Application menu command to hide all other windows"
   },
   "icu:appMenuUnhide": {
-    "messageformat": "Vis Alle",
+    "messageformat": "Vis alle",
     "description": "Application menu command to show all application windows"
   },
   "icu:appMenuQuit": {
@@ -209,7 +209,7 @@
     "description": "Edit menu command to remove the selected text"
   },
   "icu:editMenuSelectAll": {
-    "messageformat": "Velg Alt",
+    "messageformat": "Velg alt",
     "description": "Edit menu command to select all of the text in selected text box"
   },
   "icu:editMenuStartSpeaking": {
@@ -221,7 +221,7 @@
     "description": "Edit menu item under 'speech' to stop dictation"
   },
   "icu:windowMenuClose": {
-    "messageformat": "Lukk Vindu",
+    "messageformat": "Lukk vindu",
     "description": "Window menu command to close the current window"
   },
   "icu:windowMenuMinimize": {
@@ -237,31 +237,31 @@
     "description": "Window menu command to bring all windows of current application to front"
   },
   "icu:viewMenuResetZoom": {
-    "messageformat": "Faktisk Størrelse",
+    "messageformat": "Faktisk størrelse",
     "description": "View menu command to go back to the default zoom"
   },
   "icu:viewMenuZoomIn": {
-    "messageformat": "Zoom Inn",
+    "messageformat": "Zoom inn",
     "description": "View menu command to make everything bigger"
   },
   "icu:viewMenuZoomOut": {
-    "messageformat": "Zoom Ut",
+    "messageformat": "Zoom ut",
     "description": "View menu command to make everything smaller"
   },
   "icu:viewMenuToggleFullScreen": {
-    "messageformat": "Skru av/på Fullskjerm",
+    "messageformat": "Skru av/på fullskjerm",
     "description": "View menu command to enter or leave Full Screen mode"
   },
   "icu:viewMenuToggleDevTools": {
-    "messageformat": "Skru av/på Utviklerverktøy",
+    "messageformat": "Skru av/på utviklerverktøy",
     "description": "View menu command to show or hide the developer tools"
   },
   "icu:menuSetupAsNewDevice": {
-    "messageformat": "Sett Opp som Ny Enhet",
+    "messageformat": "Sett opp som ny enhet",
     "description": "When the application is not yet set up, menu option to start up the set up as fresh device"
   },
   "icu:menuSetupAsStandalone": {
-    "messageformat": "Sett Opp som Frittstående Enhet",
+    "messageformat": "Sett opp som frittstående enhet",
     "description": "Only available on development modes, menu option to open up the standalone device setup sequence"
   },
   "icu:messageContextMenuButton": {
@@ -609,7 +609,7 @@
     "description": "Shown during an attempted send when more than five contacts have changed their safety numbers"
   },
   "icu:safetyNumberChangeDialog__post-review": {
-    "messageformat": "Alle kontaktene er gjennomgått. Trykk på Send for å fortsette.",
+    "messageformat": "Alle kontaktene er gjennomgått. Trykk på send for å fortsette.",
     "description": "Shown after reviewing large number of contacts"
   },
   "icu:safetyNumberChangeDialog__confirm-remove-all": {
@@ -964,11 +964,11 @@
     "description": "Item under the help menu, takes you to GitHub page for release notes"
   },
   "icu:goToForums": {
-    "messageformat": "Gå til Forumene",
+    "messageformat": "Gå til forumene",
     "description": "Item under the Help menu, takes you to the forums"
   },
   "icu:goToSupportPage": {
-    "messageformat": "Gå til Side for Brukerstøtte",
+    "messageformat": "Gå til side for brukerstøtte",
     "description": "Item under the Help menu, takes you to the support page"
   },
   "icu:joinTheBeta": {
@@ -1083,7 +1083,7 @@
     "description": "Used in the alt tag for the image avatar of a contact"
   },
   "icu:sendMessageToContact": {
-    "messageformat": "Send Melding",
+    "messageformat": "Send melding",
     "description": "Shown when you are sent a contact and that contact has a signal account"
   },
   "icu:home": {
@@ -1123,7 +1123,7 @@
     "description": "Shown in the message bubble while a long message attachment is not downloaded"
   },
   "icu:downloadAttachment": {
-    "messageformat": "Last ned Vedlegg",
+    "messageformat": "Last ned vedlegg",
     "description": "Shown in a message's triple-dot menu if there isn't room for a dedicated download button"
   },
   "icu:reactToMessage": {
@@ -1131,11 +1131,11 @@
     "description": "Shown in triple-dot menu next to message to allow user to react to the associated message"
   },
   "icu:replyToMessage": {
-    "messageformat": "Svar på Melding",
+    "messageformat": "Svar på melding",
     "description": "Shown in triple-dot menu next to message to allow user to start crafting a message with a quotation"
   },
   "icu:originalMessageNotFound": {
-    "messageformat": "Fant ikke Original melding",
+    "messageformat": "Fant ikke original melding",
     "description": "Shown in quote if reference message was not found as message was initially downloaded and processed"
   },
   "icu:messageFoundButNotLoaded": {
@@ -1203,11 +1203,11 @@
     "description": "Shown if the user attempts access the camera for video calling without video permissions turned on"
   },
   "icu:allowAccess": {
-    "messageformat": "Tillat Tilgang",
+    "messageformat": "Tillat tilgang",
     "description": "Button shown in popup asking to enable microphone/video permissions to send audio messages"
   },
   "icu:showSettings": {
-    "messageformat": "Vis Innstillnger",
+    "messageformat": "Vis innstillnger",
     "description": "A button shown in dialog requesting the user to turn on audio permissions"
   },
   "icu:audio": {
@@ -1591,7 +1591,7 @@
     "description": "Used in the guidance to help people find the 'link new device' area of their Signal mobile app"
   },
   "icu:linkNewDevice": {
-    "messageformat": "Koble Til En Ny Enhet",
+    "messageformat": "Koble til en ny enhet",
     "description": "The menu option shown in Signal iOS to add a new linked device"
   },
   "icu:Install__learn-more": {
@@ -1619,7 +1619,7 @@
     "description": "Instructions on the device link screen"
   },
   "icu:Install__qr-failed": {
-    "messageformat": "(deleted 05/09/2023) The QR code couldn't load. Check your internet and try again. <learnMoreLink>Learn more</learnMoreLink>",
+    "messageformat": "(slettet 05/09/2023) QR-koden kunne ikke lastes inn. Sjekk internettilkoblingen og prøv igjen. <learnMoreLink>Lær mer</learnMoreLink>",
     "description": "Shown on the install screen if the QR code fails to load"
   },
   "icu:Install__qr-failed-load": {
@@ -2717,7 +2717,7 @@
     "description": "Shown in the sticker pack manager when you don't have any installed sticker packs."
   },
   "icu:stickers--StickerManager--BlessedPacks": {
-    "messageformat": "Signal Artist Serier",
+    "messageformat": "Signal kunstnerserier",
     "description": "Shown in the sticker pack manager above the default sticker packs."
   },
   "icu:stickers--StickerManager--BlessedPacks--Empty": {
@@ -2829,7 +2829,7 @@
     "description": "Button title to cancel the emoji search."
   },
   "icu:EmojiPicker--search-placeholder": {
-    "messageformat": "Søk i Emoji",
+    "messageformat": "Søk i emoji",
     "description": "Shown as a placeholder inside the emoji picker search field."
   },
   "icu:EmojiPicker--skin-tone": {
@@ -3061,7 +3061,7 @@
     "description": "Shown in the shortcuts guide"
   },
   "icu:Keyboard--attach-file": {
-    "messageformat": "Attach file",
+    "messageformat": "Legg ved fil",
     "description": "Shown in the shortcuts guide"
   },
   "icu:Keyboard--remove-draft-link-preview": {
@@ -3121,7 +3121,7 @@
     "description": "Header of the keyboard shortcuts guide - messages section"
   },
   "icu:Keyboard--composer-header": {
-    "messageformat": "Composer",
+    "messageformat": "Komponist",
     "description": "Header of the keyboard shortcuts guide - composer section"
   },
   "icu:Keyboard--composer--bold": {
@@ -3217,7 +3217,7 @@
     "description": "Shown in the calling keyboard shortcuts guide"
   },
   "icu:close-popup": {
-    "messageformat": "Close Popup",
+    "messageformat": "Lukk popup",
     "description": "Used as alt text for any button closing a popup"
   },
   "icu:addImageOrVideoattachment": {
@@ -4557,7 +4557,7 @@
     "description": "Aria label for expanding composition area"
   },
   "icu:CompositionArea--attach-file": {
-    "messageformat": "Attach file",
+    "messageformat": "Legg ved fil",
     "description": "Aria label for file attachment button in composition area"
   },
   "icu:CompositionArea--sms-only__title": {
@@ -4865,7 +4865,7 @@
     "description": "This is the modal button to confirm revoking invites"
   },
   "icu:PendingRequests--approve": {
-    "messageformat": "Godkjenn Forespørselen",
+    "messageformat": "Godkjenn forespørselen",
     "description": "This is the modal button to approve group request to join"
   },
   "icu:PendingRequests--deny": {
@@ -4981,7 +4981,7 @@
     "description": "When creating a new group and inviting users, this is shown in the dialog"
   },
   "icu:NewlyCreatedGroupInvitedContactsDialog--body--user-paragraph--one": {
-    "messageformat": "{name}kan ikke legges til automatisk i denne gruppen av deg.",
+    "messageformat": "{name} kan ikke legges til automatisk i denne gruppen av deg.",
     "description": "When creating a new group and inviting users, this is shown in the dialog"
   },
   "icu:NewlyCreatedGroupInvitedContactsDialog--body--user-paragraph--many": {
@@ -5493,7 +5493,7 @@
     "description": "Shown if user has attempted to enter a username with too few characters - currently min is 3"
   },
   "icu:ProfileEditor--username--check-character-max": {
-    "messageformat": "Brukernavn kan ha maks. {max,number} tegn.",
+    "messageformat": "Brukernavn kan ha maksimalt {max,number} tegn.",
     "description": "Shown if user has attempted to enter a username with too many characters - currently min is 25"
   },
   "icu:ProfileEditor--username--unavailable": {
@@ -5505,7 +5505,7 @@
     "description": "Shown if user has attempted to save a username which is not available"
   },
   "icu:ProfileEditor--username--general-error": {
-    "messageformat": "Brukernavnet ditt kunne ikke lagres. Sjekk internettilkoblingen og prøv igjen.",
+    "messageformat": "Brukernavnet ditt kunne ikke lagres. Sjekk internettilkoblingen din og prøv igjen.",
     "description": "Shown if something unknown has gone wrong with username save."
   },
   "icu:ProfileEditor--username--reservation-gone": {
@@ -5565,7 +5565,7 @@
     "description": "Placeholder text for first name field"
   },
   "icu:ProfileEditor--last-name": {
-    "messageformat": "Etternavn (Valgfritt)",
+    "messageformat": "Etternavn (valgfritt)",
     "description": "Placeholder text for last name field"
   },
   "icu:ConfirmDiscardDialog--discard": {
@@ -5577,7 +5577,7 @@
     "description": "Information shown at the bottom of the profile editor section"
   },
   "icu:Bio--speak-freely": {
-    "messageformat": "Snakk Fritt",
+    "messageformat": "Snakk fritt",
     "description": "A default bio option"
   },
   "icu:Bio--encrypted": {
@@ -5589,7 +5589,7 @@
     "description": "A default bio option"
   },
   "icu:Bio--coffee-lover": {
-    "messageformat": "Kaffielsker",
+    "messageformat": "Kaffeelsker",
     "description": "A default bio option"
   },
   "icu:Bio--taking-break": {
@@ -5685,7 +5685,7 @@
     "description": "Title for system type settings"
   },
   "icu:Preferences--zoom": {
-    "messageformat": "Zoomnivå",
+    "messageformat": "Zoom-nivå",
     "description": "Label for changing the zoom level"
   },
   "icu:Preferences__link-previews--title": {
@@ -6521,7 +6521,7 @@
     "description": "Context menu item to help debugging"
   },
   "icu:StoryDetailsModal__download-attachment": {
-    "messageformat": "Last ned Vedlegg",
+    "messageformat": "Last ned vedlegg",
     "description": "Context menu item to help debugging"
   },
   "icu:StoryViewsNRepliesModal__read-receipts-off": {
@@ -6661,11 +6661,11 @@
     "description": "Label for font"
   },
   "icu:StoryCreator__text--script": {
-    "messageformat": "Script",
+    "messageformat": "Skript",
     "description": "Label for font"
   },
   "icu:StoryCreator__text--condensed": {
-    "messageformat": "Condensed",
+    "messageformat": "Kondensert",
     "description": "Label for font"
   },
   "icu:StoryCreator__control--text": {
@@ -6825,15 +6825,15 @@
     "description": "Text of the primary button on username onboarding modal"
   },
   "icu:UnsupportedOSWarningDialog__body": {
-    "messageformat": "Signal Desktop vil snart ikke fungere på denne versjonen av {OS} på datamaskinen din. Du må oppdatere operativsystemet innen {expirationDate} for å fortsette å bruke Signal. <learnMoreLink>Les mer</learnMoreLink>",
+    "messageformat": "Signal Desktop vil snart ikke virke på denne versjonen av {OS} på datamaskinen din. Du må oppdatere operativsystemet innen {expirationDate} for å fortsette å bruke Signal. <learnMoreLink>Les mer</learnMoreLink>",
     "description": "Body of a dialog displayed on unsupported operating systems"
   },
   "icu:UnsupportedOSErrorDialog__body": {
-    "messageformat": "Signal Desktop fungerer ikke lenger på denne datamaskinen. Du må oppdatere til en nyere versjon av {OS} for å kunne bruke Signal igjen. <learnMoreLink>Les mer</learnMoreLink>",
+    "messageformat": "Signal Desktop virker ikke lenger på denne datamaskinen. Du må oppdatere til en nyere versjon av {OS} for å kunne bruke Signal igjen. <learnMoreLink>Les mer</learnMoreLink>",
     "description": "Body of a dialog displayed on unsupported operating systems"
   },
   "icu:UnsupportedOSErrorToast": {
-    "messageformat": "Signal Desktop fungerer ikke lenger på denne datamaskinen. Du må oppdatere til en nyere versjon av {OS} for å kunne bruke Signal igjen.",
+    "messageformat": "Signal Desktop virker ikke lenger på denne datamaskinen. Du må oppdatere til en nyere versjon av {OS} for å kunne bruke Signal igjen.",
     "description": "Body of a dialog displayed on unsupported operating systems"
   },
   "icu:MessageMetadata__edited": {
@@ -6845,7 +6845,7 @@
     "description": "Modal title for the edit history messages modal"
   },
   "icu:ResendMessageEdit__body": {
-    "messageformat": "Meldingen kan ikke redigeres. Sjekk internettilkoblingen og prøv igjen.",
+    "messageformat": "Meldingen kan ikke redigeres. Sjekk internettilkoblingen din og prøv igjen.",
     "description": "Modal body for the confirmation dialog shown to user when attempting to resend message edit"
   },
   "icu:ResendMessageEdit__button": {
@@ -6965,7 +6965,7 @@
     "description": "Title for the whats new modal"
   },
   "icu:WhatsNew__bugfixes": {
-    "messageformat": "Denne versjonen inneholder noen justeringer og feilrettinger som sikrer at Signal fungerer optimalt.",
+    "messageformat": "Denne versjonen inneholder noen justeringer og feilrettinger som sikrer at Signal virker optimalt.",
     "description": "Release notes for releases that only include bug fixes"
   },
   "icu:WhatsNew__bugfixes--1": {
@@ -6973,7 +6973,7 @@
     "description": "Release notes for releases that only include bug fixes"
   },
   "icu:WhatsNew__bugfixes--2": {
-    "messageformat": "Et knippe feilrettinger som sørger for at appen fungerer optimalt. Flere spennende oppdateringer er i vente. ",
+    "messageformat": "Et knippe feilrettinger som sørger for at appen fungerer optimalt. Flere spennende oppdateringer er i vente.",
     "description": "Release notes for releases that only include bug fixes"
   },
   "icu:WhatsNew__bugfixes--3": {
@@ -6981,7 +6981,7 @@
     "description": "Release notes for releases that only include bug fixes"
   },
   "icu:WhatsNew__bugfixes--4": {
-    "messageformat": "Jobber iherdig med å fikse feil og andre ytelsesforbedringer som sørger for at appen fungerer optimalt. ",
+    "messageformat": "Jobber iherdig med å fikse feil og andre ytelsesforbedringer som sørger for at appen fungerer optimalt.",
     "description": "Release notes for releases that only include bug fixes"
   },
   "icu:WhatsNew__bugfixes--5": {
@@ -6999,6 +6999,6 @@
     "messageformat": "Nå kan du bytte språk i Signal uten å endre språket på enheten din (Gå til Signal-innstillingene > Design > Språk)."
   },
   "icu:WhatsNew__v6.39--1": {
-    "messageformat": "Det oppstod iblant forsinkelser når man forsøkte å bli med i samtaler via enheter med macOS – dette er nå fikset."
+    "messageformat": "Det oppstår iblant forsinkelser når man forsøker å bli med i samtaler via enheter med macOS – dette er nå fikset."
   }
 }
